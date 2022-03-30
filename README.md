@@ -13,3 +13,4 @@ The code of "Robust image matching via local graph structure consensus"
 }
 ```
 - If this code is useful for your research, please cite this paper.
+- Please download vlfeat from its homepage [VLFEAT](https://www.vlfeat.org/), then uncompress and rename it as 'vlfeat'.
