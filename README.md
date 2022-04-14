@@ -2,6 +2,7 @@
 The code of "Robust image matching via local graph structure consensus"
 - LGSC can identify the inliers from putative match set, i.e., mismatch removal.
 ## Please refer to our following paper for algorithm details
+The complete version of our paper is subject to [LGSC](https://www.researchgate.net/publication/358576811_Robust_image_matching_via_local_graph_structure_consensus). There may be a slight problem with the paper in the journal Pattern Recognition. 
 >Jiang, Xingyu, Yifan Xia, Xiao-Ping Zhang, and Jiayi Ma. "Robust image matching via local graph structure consensus." Pattern Recognition 126 (2022): 108588.
 
 ```
